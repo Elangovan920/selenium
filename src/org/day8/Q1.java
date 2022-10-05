@@ -22,6 +22,13 @@ public class Q1 {
 		Alert rf = driver.switchTo().alert();
 		String ss = rf.getText();
 		System.out.println(ss);
+		System.out.println(ss);
+		System.out.println(ss);
+		System.out.println(ss);
+		System.out.println(ss);
+		System.out.println(ss);
+		System.out.println(ss);
+		System.out.println(ss);
 		rf.accept();
 //	
 		
