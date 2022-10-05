@@ -25,10 +25,7 @@ public class Q1 {
 		System.out.println(ss);
 		System.out.println(ss);
 		System.out.println(ss);
-		System.out.println(ss);
-		System.out.println(ss);
-		System.out.println(ss);
-		System.out.println(ss);
+	
 		rf.accept();
 //	
 		
